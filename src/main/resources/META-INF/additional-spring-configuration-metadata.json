@@ -1,9 +1,0 @@
-{"properties": [{
-  "name": "docker.services.mongo.mongodb.target",
-  "type": "java.lang.String",
-  "description": "A description for 'docker.services.mongo.mongodb.target'"
-}]}{"properties": [{
-  "name": "docker.version",
-  "type": "java.lang.String",
-  "description": "A description for 'docker.version'"
-}]}
