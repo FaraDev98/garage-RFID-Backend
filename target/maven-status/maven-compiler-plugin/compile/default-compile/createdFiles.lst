@@ -1,0 +1,7 @@
+it/oncode/mongo/model/Address.class
+it/oncode/mongo/MongoApplication.class
+it/oncode/mongo/repository/PersonRepository.class
+it/oncode/mongo/repository/AddressRepository.class
+it/oncode/mongo/controller/PersonController.class
+it/oncode/mongo/model/Person.class
+it/oncode/mongo/controller/AddressController.class

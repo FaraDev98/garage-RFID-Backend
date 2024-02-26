@@ -1,0 +1,14 @@
+/home/diego/Documenti/mongo/src/main/java/it/oncode/mongo/model/Book.java
+/home/diego/Documenti/mongo/src/main/java/it/oncode/mongo/model/Person.java
+/home/diego/Documenti/mongo/src/main/java/it/oncode/mongo/model/Theme.java
+/home/diego/Documenti/mongo/src/main/java/it/oncode/mongo/controller/AddressController.java
+/home/diego/Documenti/mongo/src/main/java/it/oncode/mongo/repository/AddressRepository.java
+/home/diego/Documenti/mongo/src/main/java/it/oncode/mongo/repository/PersonRepository.java
+/home/diego/Documenti/mongo/src/main/java/it/oncode/mongo/controller/BookController.java
+/home/diego/Documenti/mongo/src/main/java/it/oncode/mongo/dto/BookResponseDto.java
+/home/diego/Documenti/mongo/src/main/java/it/oncode/mongo/repository/BookRepository.java
+/home/diego/Documenti/mongo/src/main/java/it/oncode/mongo/controller/ThemeController.java
+/home/diego/Documenti/mongo/src/main/java/it/oncode/mongo/repository/ThemeRepository.java
+/home/diego/Documenti/mongo/src/main/java/it/oncode/mongo/controller/PersonController.java
+/home/diego/Documenti/mongo/src/main/java/it/oncode/mongo/MongoApplication.java
+/home/diego/Documenti/mongo/src/main/java/it/oncode/mongo/model/Address.java

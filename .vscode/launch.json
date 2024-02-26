@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MongoApplication<mongo>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "it.oncode.mongo.MongoApplication",
+            "projectName": "mongo",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
